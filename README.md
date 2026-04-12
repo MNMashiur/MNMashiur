@@ -1,8 +1,8 @@
 ## Hi there, It's Mashiur.....
 
 
-🔭 I’m currently working on Blockchain 
-🌱 I’m currently learning Solidity
+- 🔭 I’m currently working on Blockchain 
+- 🌱 I’m currently learning Solidity
 
 
 🚀 About Me
