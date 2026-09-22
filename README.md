@@ -1,4 +1,4 @@
-## Hi there, It's Mashiur.....
+## Hey there, It's Mashiur.....
 
 
 - 🔭 I’m currently working on Blockchain 
@@ -7,7 +7,7 @@
 
 🚀 About Me
 
-Computer Science student with a strong interest in building and understanding modern digital systems. I enjoy exploring how things work under the hood - from system architecture to real-world applications.
+Computer Science graduate with a strong interest in building and understanding modern digital systems. I enjoy exploring how things work under the hood - from system architecture to real-world applications.
 
 Currently focused on working with movie-based platforms and exploring blockchain technologies.
 
